@@ -7,8 +7,8 @@ t.title('BingDwenDwen 公众号：越哥聊IT')
 
 
 # 调节绘制速度
-t.speed(50) 
-time.sleep(15)
+t.speed(20) 
+# time.sleep(15)
 
 # 左手
 t.penup()
